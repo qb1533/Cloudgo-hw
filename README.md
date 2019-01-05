@@ -88,7 +88,7 @@ Percentage of the requests served within a certain time (ms)
 ```
 
 
-
+```
             min最小  mean期望[+/-sd]标准差 median中位数   max最大
 Connect:    连接时间
 Processing: 处理时间
